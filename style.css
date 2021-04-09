@@ -3,14 +3,14 @@ body {
 }
  #lotto {
     border-radius: 100%;
-    
+    border-image: fill url();
 }
 #fokep {
-
+width: 500px;
 }
 section {
     background-color: darkgray;
-    width: 30%;
+    width: 500px;
 }
 #menu {
     
