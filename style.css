@@ -1,9 +1,21 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
- #lotto {
+ #kor {
     border-radius: 100%;
-    border-image: fill url();
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+#kt {
+    position: absolute;
+    width: inherit;
+    height: auto;
+    top: 45%;
+    text-align: center;
+    transform: translateY(-30%);
+    font-size: 150%;
+    color: white;
 }
 #fokep {
 width: 500px;
