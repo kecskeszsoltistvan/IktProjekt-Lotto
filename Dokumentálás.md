@@ -7,3 +7,4 @@ Zsolt elkezdte, Még csak kisebb formázások vannak benne
 Mászáros R.: Képek gyűjtése.
 2021. 04. 10.
 Zsolt: HTML + CSS kód folytatása, Rengeteg Hiba javítás.
+Alapoldal/Oldal minta: Nagyjából kész.

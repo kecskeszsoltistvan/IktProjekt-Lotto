@@ -24,15 +24,17 @@ body {
 width: 500px;
 }
 aside {
-    background-color: darkgray;
+    background-color: rgb(70, 70, 70);
     width: 500px;
 margin-bottom: auto;
 display: block;
+
 }
 #menu {
-    background-color: gray;
+    background-color: rgb(70, 70, 70);
     line-height: 40px;
-    margin-top: 0%;
+    transform: translateY(-20px);
+    display: block;
 }
 .nav-link {
     color: white;
@@ -46,13 +48,13 @@ main {
 }
 .szh {
     width: 100px;
-    display: block;
+    float: left;
+	padding: 5px;
+
 }
-#soradat {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+#soradat:after {
+        display: table;
+        clear: both;
 }
 #tartalom {
     position: fixed;
