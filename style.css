@@ -3,7 +3,7 @@ body{
     margin: 0%;
     padding: 0%;
 }
- #kor{
+#kor{
     border-radius: 100%;
     background-color: rgb(45, 158, 96);
     width: 200px;
@@ -32,14 +32,19 @@ aside{
 #menu{
     background-color: rgb(70, 70, 70);
     line-height: 40px;
-    transform: translateY(-20px);
+    transform: translateY(-12px);
     display: block;
+    margin-bottom: 149px;
+    max-height: 3000px;
+    text-indent: 30px;
 }
 .nav-link{
     color: white;
 }
 hr{
     border-color: black;
+    margin-right: 40px;
+    
 }
 main{
     display: block;
