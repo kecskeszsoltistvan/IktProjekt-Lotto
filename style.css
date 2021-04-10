@@ -1,5 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0%;
 }
  #kor {
     border-radius: 100%;
@@ -21,18 +23,40 @@ body {
 #fokep {
 width: 500px;
 }
-section {
+aside {
     background-color: darkgray;
     width: 500px;
+margin-bottom: auto;
+display: block;
 }
 #menu {
     background-color: gray;
-    line-height: 50px;
-
+    line-height: 40px;
+    margin-top: 0%;
 }
 .nav-link {
     color: white;
 }
 hr {
     border-color: black;
+}
+main {
+    display: block;
+    width: 70%;
+}
+.szh {
+    width: 100px;
+    display: block;
+}
+#soradat {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#tartalom {
+    position: fixed;
+    left: 600px;
+    top: 50px;
+    font-size: 150%;
 }
