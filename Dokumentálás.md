@@ -8,3 +8,5 @@ Mászáros R.: Képek gyűjtése.
 2021. 04. 10.
 Zsolt: HTML + CSS kód folytatása, Rengeteg Hiba javítás.
 Alapoldal/Oldal minta: Nagyjából kész.
+Ricsi: HTML + CSS kód javítása. 
+A kinézet javítása a weboldalon / kódban is.
