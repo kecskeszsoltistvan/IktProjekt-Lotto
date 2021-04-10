@@ -33,3 +33,6 @@ section {
 .nav-link {
     color: white;
 }
+hr {
+    border-color: black;
+}
