@@ -1,16 +1,16 @@
-body {
+body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0%;
     padding: 0%;
 }
- #kor {
+ #kor{
     border-radius: 100%;
     background-color: rgb(45, 158, 96);
     width: 200px;
     height: 200px;
     position: absolute; top: 80px; left: 150px;
 }
-#kt {
+#kt{
     position: absolute;
     width: inherit;
     height: auto;
@@ -20,45 +20,50 @@ body {
     font-size: 300%;
     color: white;
 }
-#fokep {
-width: 500px;
+#fokep{
+    width: 500px;
 }
-aside {
+aside{
     background-color: rgb(70, 70, 70);
     width: 500px;
-margin-bottom: auto;
-display: block;
-
+    margin-bottom: auto;
+    display: block;
 }
-#menu {
+#menu{
     background-color: rgb(70, 70, 70);
     line-height: 40px;
     transform: translateY(-20px);
     display: block;
 }
-.nav-link {
+.nav-link{
     color: white;
 }
-hr {
+hr{
     border-color: black;
 }
-main {
+main{
     display: block;
     width: 70%;
 }
-.szh {
+.szh{
     width: 100px;
     float: left;
 	padding: 5px;
-
+    margin-bottom: 75px;
 }
-#soradat:after {
-        display: table;
-        clear: both;
+#soradat:after{
+    display: table;
+    clear: both;
 }
-#tartalom {
+#tartalom{
     position: fixed;
     left: 600px;
     top: 50px;
     font-size: 150%;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
 }
