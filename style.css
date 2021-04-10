@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+ #kor {
+    border-radius: 100%;
+    background-color: rgb(45, 158, 96);
+    width: 200px;
+    height: 200px;
+    position: absolute; top: 80px; left: 150px;
+}
+#kt {
+    position: absolute;
+    width: inherit;
+    height: auto;
+    top: 25%;
+    text-align: center;
+    transform: translateY(-30%);
+    font-size: 300%;
+    color: white;
+}
+#fokep {
+width: 500px;
+}
+aside {
+    background-color: rgb(70, 70, 70);
+    width: 500px;
+margin-bottom: auto;
+display: block;
+
+}
+#menu {
+    background-color: rgb(70, 70, 70);
+    line-height: 40px;
+    transform: translateY(-20px);
+    display: block;
+}
+.nav-link {
+    color: white;
+}
+hr {
+    border-color: black;
+}
+main {
+    display: block;
+    width: 70%;
+}
+.szh {
+    width: 100px;
+    float: left;
+	padding: 5px;
+
+}
+#soradat:after {
+        display: table;
+        clear: both;
+}
+#tartalom {
+    position: fixed;
+    left: 600px;
+    top: 50px;
+    font-size: 150%;
+}
