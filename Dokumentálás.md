@@ -1,3 +1,5 @@
+Dominik: HTML Készítés és CSS Javítás, Zsolt: CSS Készítés, és HTML javítás. Ricsi: HTML + CSS Javítás + Grafikonok és egyebek
+
 .2021. Április. 09.
 HTML, CSS Készítése:
 HTML: 
