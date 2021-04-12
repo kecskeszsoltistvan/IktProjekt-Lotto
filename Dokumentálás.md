@@ -11,4 +11,5 @@ Alapoldal/Oldal minta: Nagyjából kész.
 Ricsi: HTML + CSS kód javítása. 
 A kinézet javítása a weboldalon / kódban is.
 2021. Április. 11.
-Zsolt: Számadatok beillesztése.
+Zsolt: Számadatok beillesztése. (Számok a helyükön)
+AZ első oldal (Csak néhány hibával) KÉSZ.
