@@ -1,3 +1,2 @@
 # IktProjekt-Lotto
-helo
-én is helo
+Link az oldalhoz: https://kecskeszsoltistvan.github.io/IktProjekt-Lotto/
