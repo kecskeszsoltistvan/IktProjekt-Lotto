@@ -15,5 +15,6 @@ A kinézet javítása a weboldalon / kódban is.
 .2021. Április. 11.
 Zsolt: Számadatok beillesztése. (Számok a helyükön)
 AZ első oldal (Csak néhány hibával) KÉSZ.
-.2021. Április 08.
+
+.2021. Április 18.
 Zsolt: Weboldal megosztása, képek Mappákba helyezése (és ezzel a kód kisssebb nagyobb árírása)
