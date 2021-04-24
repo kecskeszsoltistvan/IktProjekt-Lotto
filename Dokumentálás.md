@@ -18,3 +18,9 @@ AZ első oldal (Csak néhány hibával) KÉSZ.
 
 .2021. Április 18.
 Zsolt: Weboldal megosztása, képek Mappákba helyezése (és ezzel a kód kisssebb nagyobb árírása)
+
+.2021 Április 22.
+???
+
+.2021 Április 24.
+Zsolt: Másodil Oldal Folytatása/Ellenőrzése
