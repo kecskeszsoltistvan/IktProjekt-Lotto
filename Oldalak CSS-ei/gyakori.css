@@ -1,4 +1,32 @@
 .gyakoriszam
 {
     width: 100px;
+    float: left;
+    position: relative;
+    top: -110px;
+    left: 80px;
+}
+.gysz {
+    float: left;
+    position: relative;
+    top: -98px;
+}
+.db {
+top: -100px;
+left: 100px;
+position: relative;
+font-size: 200%;
+}
+.rangsor {
+    top: -80px;
+    font-weight: lighter;
+}
+#gysz1 {
+left: 24.5px;
+}
+#gysz2 {
+    left: 23px;
+}
+#gysz3 {
+    left: 18px;
 }

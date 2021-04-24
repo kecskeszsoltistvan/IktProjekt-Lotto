@@ -23,4 +23,4 @@ Zsolt: Weboldal megosztása, képek Mappákba helyezése (és ezzel a kód kisss
 ???
 
 .2021 Április 24.
-Zsolt: Másodil Oldal Folytatása/Ellenőrzése
+Zsolt: Második Oldal Folytatása/Ellenőrzése, Első oldal Hibáinak kijavítása.
