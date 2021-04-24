@@ -23,4 +23,4 @@ Zsolt: Weboldal megosztása, képek Mappákba helyezése (és ezzel a kód kisss
 ???
 
 .2021 Április 24.
-Zsolt: Második Oldal Folytatása/Ellenőrzése, Első oldal Hibáinak kijavítása.
+Zsolt: Második Oldal Folytatása/Ellenőrzése, Első oldal Hibáinak kijavítása. A két oldal teljesen működik és használható a menü (Részben)
