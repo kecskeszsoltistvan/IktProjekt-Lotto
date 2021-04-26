@@ -11,16 +11,13 @@
 <body>
     <aside>
         <section>
-        <img id="fokep" src="képek/Lottokep.jpg" title="Lottó kép">
-            <div id="kor">
-            <h1 id="kt">Lottó</h1>
-            </div>
+        <img id="fokep" src="képek/Lottokep2.jpg" title="Lottó kép">
             <ul id="menu">
-                    <li class="nav-item"><a class="nav-link" href="Index.html">Korábbi sorsolások</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.html">Korábbi sorsolások</a></li>
                 <hr>
                     <li class="nav-item"><a class="nav-link" href="gyakori.html">Leggyakoribb számok</a></li>
                 <hr>
-                    <li class="nav-item"><a class="nav-link" href="#hasonlo">Leghasonlóbb számsorok</a></li>
+                    <li class="nav-item"><a class="nav-link" href="leghasonlobb.html">Leghasonlóbb számsorok</a></li>
                 <hr>
                     <li class="nav-item"><a class="nav-link" href="#leghosszabb">Leghosszabb sorozat</a></li>
                 <hr>
@@ -38,11 +35,23 @@
     <main>
         <div id="tartalom">
             <h1>Leggyakoribb számok</h1>
-            <div id="oszlop">
+            <br>
+            <div class="sor1">
                 <!--Az src részt kikell majd javítani, ha meglesznek az ehhez tartozó golyok--> 
-                <h1 class="rangsor">#1<img class="gyakoriszam" src="golyok/narancssargagolyo.jpg"></h1> <p class="gyakorisag">unknown</p> <!--"unknown részeket kérlek pótóljátok"-->
-                <h1 class="rangsor">#2<img class="gyakoriszam" src="golyok/narancssargagolyo.jpg"></h1> <p class="gyakorisag">unknown</p>
-                <h1 class="rangsor">#3<img class="gyakoriszam" src="golyok/narancssargagolyo.jpg"></h1> <p class="gyakorisag">unknown</p>
+                <h1 class="rangsor elso">#1</h1> <img class="gyakoriszam" src="golyok/narancssargagolyo.jpg">
+                <p class="gysz" id="gysz1">3</p> <!-- Gyakori szám-->
+                <p class="db">218 db</p>
+            </div>
+            <div class="sor2">
+                <h1 class="rangsor">#2</h1><img class="gyakoriszam" src="golyok/narancssargagolyo.jpg">
+                <p class="gysz" id="gysz2">1</p> 
+                <p class="db">209 db</p>
+            </div>
+            <div class="sor3">
+                <h1 class="rangsor">#3</h1><img class="gyakoriszam" src="golyok/narancssargagolyo.jpg">
+                <p class="gysz" id="gysz3">29</p>
+                <p class="db">208 db</p>
+            </div>
         </div>
     </main>
 </body>

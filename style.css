@@ -4,80 +4,78 @@ body{
     padding: 0%;
     overflow: hidden;
 }
-#kor{
-    border-radius: 100%;
-    background-color: rgb(45, 158, 96);
-    width: 200px;
-    height: 200px;
-    position: absolute; top: 80px; left: 150px;
-}
-#kt{
-    position: absolute;
-    width: inherit;
-    height: auto;
-    top: 25%;
-    text-align: center;
-    transform: translateY(-30%);
-    font-size: 300%;
-    color: white;
-}
+
 #fokep{
-    width: 500px;
+    width: 100%;
 }
+
 aside{
     background-color: rgb(70, 70, 70);
-    width: 500px;
-    margin-bottom: auto;
+    width: 25%;
     display: block;
 }
+
 #menu{
     background-color: rgb(70, 70, 70);
-    line-height: 40px;
     transform: translateY(-12px);
     display: block;
-    margin-bottom: 149px;
-    max-height: 3000px;
-    text-indent: 30px;
+    margin-bottom: 100%;
+    line-height: 250%;
+    max-height: 2%;
+    text-indent: 8%;
 }
+
 .nav-link{
     color: white;
+    line-break: unset;
 }
+
 hr{
     border-color: black;
-    margin-right: 40px;
-    
+    margin-right: 10%;
 }
+
 main{
     display: block;
     width: 70%;
 }
+
 .szh{
-    width: 100px;
+    width: 9%;
     float: left;
-	padding: 5px;
-    margin-bottom: 75px;
+	padding: 0.3%;
+    margin-bottom: 5%;
+    min-width: 60px;
 }
+
 #soradat:after{
-    display: table;
+    display: fixed;
     clear: both;
 }
+
 #tartalom{
     position: fixed;
-    left: 600px;
-    top: 50px;
-    font-size: 150%;
+    left: 32%;
+    top: 5%;
+    font-size: 1.3vw;
 }
+
 a{
     text-decoration: none;
 }
+
 ul{
     list-style-type: none;
 }
-.sas {
-top: 16.4px;
-left: -507.4px;
-float: left;
-word-spacing: 76.5px;
-position: relative;
-font-weight: bold;
+
+.sas{
+    top: 100%;
+    left: -51.9%;
+    float: left;
+    position: relative;
+    font-weight: bold;
+    transform: translateY(85%);
+    word-spacing: 92px;
+    margin-left: 7.6%;
+    font-size: 1.25vw;
 }
