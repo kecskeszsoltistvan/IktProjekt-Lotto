@@ -1,37 +1,33 @@
-.gyakoriszam
-{
+.golyo{
     width: 6vw;
     float: left;
     position: relative;
-    top: -110px;
-    left: 80px;
+    left: 3.5vw;
+    top: -6vw;
 }
-.gysz {
+
+.fajta{
     float: left;
     position: relative;
-    top: -92px;
+    top: -5vw;
 }
-.db {
-    top: -100px;
-    left: 100px;
+.db{
+    top: -5.4vw;
+    left: 20%;
     position: relative;
     font-size: 200%;
 }
-.rangsor {
-    font-weight: lighter;
+
+.elhelyezes{
+    left: -1%;
 }
-#gysz1 {
-    left: 16.5px;
-}
-#gysz2 {
-    left: 16px;
-}
-#gysz3 {
-    left: 10px;
+.elhelyezes2{
+    left: 18%
 }
 
-.rangsor{
-    font-size: 2.5vw;
+.top{
+    font-weight: lighter;
+    font-size: 2.3vw;
 }
 
 .elso{
