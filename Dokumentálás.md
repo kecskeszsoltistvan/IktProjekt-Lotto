@@ -1,26 +1,29 @@
 Dominik: HTML Készítés és CSS Javítás, Zsolt: CSS Készítés, és HTML javítás. Ricsi: HTML + CSS Javítás + Grafikonok és egyebek
 
-.2021. Április. 09.
+.2021. Április 09.
 HTML, CSS Készítése:
 HTML: Írása elkezdődött Oszkár által. Zsolt alakított rajta.
 CSS: Zsolt elkezdte, Még csak kisebb formázások vannak benne
 Mászáros R.: Képek gyűjtése.
 
-.2021. Április. 10.
+.2021. Április 10.
 Zsolt: HTML + CSS kód folytatása, Rengeteg Hiba javítás.
 Alapoldal/Oldal minta: Nagyjából kész.
 Ricsi: HTML + CSS kód javítása. 
 A kinézet javítása a weboldalon / kódban is.
 
-.2021. Április. 11.
+.2021. Április 11.
 Zsolt: Számadatok beillesztése. (Számok a helyükön)
 AZ első oldal (Csak néhány hibával) KÉSZ.
 
 .2021. Április 18.
 Zsolt: Weboldal megosztása, képek Mappákba helyezése (és ezzel a kód kisssebb nagyobb árírása)
 
-.2021 Április 22.
+.2021. Április 22.
 ???
 
-.2021 Április 24.
+.2021. Április 24.
 Zsolt: Második Oldal Folytatása/Ellenőrzése, Első oldal Hibáinak kijavítása. A két oldal teljesen működik és használható a menü (Részben)
+
+.2021 Április 26.
+Ricsi: "Leghasonlóbb számsorok" oldalnak létrehozása. A hozzá való CSS + HTML teljes elkészítése. Responzivitás teljes elkészítése.
