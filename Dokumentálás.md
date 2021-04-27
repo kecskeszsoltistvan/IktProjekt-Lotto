@@ -25,5 +25,8 @@ Zsolt: Weboldal megosztása, képek Mappákba helyezése (és ezzel a kód kisss
 .2021. Április 24.
 Zsolt: Második Oldal Folytatása/Ellenőrzése, Első oldal Hibáinak kijavítása. A két oldal teljesen működik és használható a menü (Részben)
 
-.2021 Április 26.
+.2021. Április 26.
 Ricsi: "Leghasonlóbb számsorok" oldalnak létrehozása. A hozzá való CSS + HTML teljes elkészítése. Responzivitás teljes elkészítése.
+
+.2021. Április 27.
+Ricsi: "Leghosszabb.html" oldal létrehozása. A hozzávaló CSS + HTML teljes elkészítése.
