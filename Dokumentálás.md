@@ -30,3 +30,4 @@ Ricsi: "Leghasonlóbb számsorok" oldalnak létrehozása. A hozzá való CSS + H
 
 .2021. Április 27.
 Ricsi: "Leghosszabb.html" oldal létrehozása. A hozzávaló CSS + HTML teljes elkészítése.
+Zsolt: Excelből az adatok kinézése és beírása.
