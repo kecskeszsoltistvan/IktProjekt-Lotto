@@ -20,7 +20,7 @@ AZ első oldal (Csak néhány hibával) KÉSZ.
 Zsolt: Weboldal megosztása, képek Mappákba helyezése (és ezzel a kód kisssebb nagyobb árírása)
 
 .2021. Április 22.
-???
+Dominik: gyakori.html (2.)oldal létrehozása
 
 .2021. Április 24.
 Zsolt: Második Oldal Folytatása/Ellenőrzése, Első oldal Hibáinak kijavítása. A két oldal teljesen működik és használható a menü (Részben)
