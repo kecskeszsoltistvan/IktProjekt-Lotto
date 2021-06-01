@@ -1,0 +1,53 @@
+#sas1{
+    left: -34.9vw;
+}
+
+#sas2{
+    left: -34.2vw;
+}
+
+#sas3{
+    left: -33.58vw;
+}
+
+#sas4{
+    left: -33.3vw;
+}
+
+#sas5{
+    left: -33.25vw;
+}
+
+
+.sas3{
+    top: 100%;
+    left: -49.9%;
+    float: left;
+    position: relative;
+    font-weight: bold;
+    transform: translateY(85%);
+    margin-left: 7.6%;
+    font-size: 1.25vw;
+}
+
+.sas4{
+    top: 100%;
+    left: -49.9%;
+    float: left;
+    position: relative;
+    font-weight: bold;
+    transform: translateY(85%);
+    margin-left: 7.6%;
+    font-size: 1.25vw;
+}
+
+.sas5{
+    top: 100%;
+    left: -49.9%;
+    float: left;
+    position: relative;
+    font-weight: bold;
+    transform: translateY(85%);
+    margin-left: 7.6%;
+    font-size: 1.25vw;
+}
