@@ -34,3 +34,6 @@ Zsolt: Excelből az adatok kinézése és beírása.
 
 .2021. Május 03.
 Zsolt: Az EXCEL-ből az adatok kiírása a Leghosszab.html-be
+
+.2021. Június 01.
+Zsolt: Csak az egyik grafikont tudtam megszerezni, a főnyeremények értéke nincs a táblázatban.
