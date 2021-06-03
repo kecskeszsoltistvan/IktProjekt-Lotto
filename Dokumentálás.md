@@ -44,3 +44,9 @@ Zsolt: Excelből az adatok kinézése és beírása.
 
 .2021. Június 01.
 Zsolt: Csak az egyik grafikont tudtam megszerezni, a főnyeremények értéke nincs a táblázatban.
+
+.2021. Június 02.
+Dominik: Grafikonok.html létrehozása, a grafikonokról még nincs kép az oldalon.
+
+.2021. Június 03.
+Dominik: Első Grafikon(img) beillesztése a html fájlba és css-ben méretezése.
