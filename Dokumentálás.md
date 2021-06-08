@@ -50,3 +50,9 @@ Dominik: Grafikonok.html létrehozása, a grafikonokról még nincs kép az olda
 
 .2021. Június 03.
 Dominik: Első Grafikon(img) beillesztése a html fájlba és css-ben méretezése.
+
+.2021. Június 06,
+Ricsi: grafikon.html: Grafikon(ok) méretének javítása.
+
+.2021. Június. 08.
+Ricsi: Erdekes HTML/CSS létrehozása, elkészítése, és linkelése. Címek/szövegek méretezése.
